@@ -179,7 +179,7 @@ def flip_coin(style):
                          " Or maybe you're the one that cheated.")
                 sleep(1)
                 sl_print("You won, so I guess I have to tell you who your big is.")
-                msg = green(" SOMEONE IN CSA!!!!!!!!!!!")
+                msg = green(" His Name is NOT Daniel Xu. And he is NOT an EE Major. He likes playing Poker though :) ... And he likes Brawl Stars...")
                 sleep(2)
                 print("your big is: (drumroll please)", end='')
                 sleep(4)
