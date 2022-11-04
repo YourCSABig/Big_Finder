@@ -1,10 +1,8 @@
 # big-finder
-## satirical program made for CSA
+## program made for CSA
 Find your big - 100% potential satisfaction guaranteed!
 
-**Added .exe for convenience - should run on windows! Just download the folder and click the .exe, and it should run**
-
-You still might need python though.
+You need python... Play the game, if you want the hint :)
 
 Please install python 3.9 on your device: https://www.python.org/downloads/release/python-390/
 
